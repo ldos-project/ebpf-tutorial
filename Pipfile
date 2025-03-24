@@ -7,6 +7,9 @@ name = "pypi"
 jupyter = "*"
 plotnine = "*"
 pyarrow = "*"
+pytest = "*"
+numba = "*"
+bcc = "*"
 
 [dev-packages]
 

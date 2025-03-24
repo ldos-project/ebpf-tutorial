@@ -1,1 +1,2 @@
-sudo apt install pipenv
+sudo apt install pipenv -y
+sudo apt install bpftrace -y
